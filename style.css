@@ -1,3 +1,4 @@
 main {background-color: darkslategray;}
 p {color: white;}
-body {background-color: darkslategray;}
+body {background-color: darkslateblue; color: white; display: flex; flex-direction: column;}
+header {background-color:cornflowerblue; color: white; display: flex; justify-content: center; align-items: center; height: 100px;}
