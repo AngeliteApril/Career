@@ -1,4 +1,12 @@
-main {background-color: darkslategray;}
-p {color: white;}
-body {background-color: darkslateblue; color: white; display: flex; flex-direction: column;}
-header {background-color:cornflowerblue; color: white; display: flex; justify-content: center; align-items: center; height: 100px;}
+body {margin: 0; background: #FCFAFF; color: #302D38;font-family: 'Segoe UI',Tahoma, Geneva, Verdana,sans-serif}
+header {display: flex; align-items: center; justify-content: space-between; min-height: 42px; padding: 20px 35px; background: #D8BBFF; color: #302D38} 
+a {color: #604A79; text-decoration: none; font-size: 16px}
+a:hover {color: #8A4F72; text-decoration: underline}
+main {max-width: 1120px; margin: auto; padding: 35px}
+p {margin: 16px; color: #514A5A; font-size: 18px; line-height: 1.65}
+h1 {margin: 24px; color: #302D38; font-size: 32px}
+h2 {margin: 16px; color: #302D38; font-size: 23px}
+table {width: 100%; border-collapse: collapse; table-layout: fixed}
+td,th {padding: 18px 20px; border: 1px solid #D9D2E2;text-align: left; vertical-align: top}
+th {background: #D8BBFF; color: #302D38; font-size: 17px}
+td {background: #EAF7FF; color: #514A5A; font-size: 16px;line-height: 1.5}
